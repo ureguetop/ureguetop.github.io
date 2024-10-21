@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ureguetop.github.io/ureguetop.txt.gz
+Sitemap: https://ureguetop.github.io/app/ureguetop.txt.gz
+Sitemap: https://ureguetop.github.io/assets/ureguetop.txt.gz
+Sitemap: https://ureguetop.github.io/css/ureguetop.txt.gz
+Sitemap: https://ureguetop.github.io/includes/ureguetop.txt.gz
+Sitemap: https://ureguetop.github.io/item/ureguetop.txt.gz
+Sitemap: https://ureguetop.github.io/src/ureguetop.txt.gz
